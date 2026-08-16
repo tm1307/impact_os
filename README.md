@@ -61,20 +61,3 @@ IMPACT OS is a two-sided platform that connects young people with verified oppor
 *Note: If you experience build issues with Turbopack, run the production build using Webpack via `npm run build`.*
 
 ---
-
-## Deployment Details
-
-This project is built to be deployed instantly on Vercel with zero configuration required.
-
-### Deploying to Vercel (Recommended)
-
-1. Push this repository to GitHub.
-2. Go to [Vercel.com](https://vercel.com) and click **"Add New Project"**.
-3. Import your GitHub repository.
-4. Leave all build settings as default:
-   - **Framework Preset:** Next.js
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `.next`
-5. Click **Deploy**. 
-
-Because all mock data is bundled locally, no database provisioning or environment variables (`.env`) are required for this MVP to work flawlessly in production.
