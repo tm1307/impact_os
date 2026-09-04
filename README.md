@@ -1,7 +1,6 @@
 <div align="center">
   <h1>IMPACT OS</h1>
   <p><strong>Youth Opportunity Intelligence & Impact Passport Platform</strong></p>
-  <p>Built for the UNESCO Youth Hackathon 2025.</p>
 
   <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
